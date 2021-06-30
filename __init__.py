@@ -1,2 +1,0 @@
-from shakeshake_models.shake_resnet import ShakeResNet
-from shakeshake_models.shake_resnext import ShakeResNeXt
